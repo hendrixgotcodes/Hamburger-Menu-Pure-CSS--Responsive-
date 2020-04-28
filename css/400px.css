@@ -1,0 +1,13 @@
+header .checkbox {
+  left: -3rem;
+  opacity: 0;
+}
+header .menu {
+  left: 1rem;
+}
+header .menu-content {
+  width: 30%;
+}
+.section {
+  font-size: 1rem;
+}
